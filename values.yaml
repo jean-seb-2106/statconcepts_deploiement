@@ -9,3 +9,7 @@ shiny:
     enabled: false
   postgresql:
     enabled: false
+  resources:
+    requests:
+      cpu: 100m
+      memory: 2Gi
