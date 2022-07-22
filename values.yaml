@@ -2,6 +2,7 @@ shiny:
   image:
     repository: jeanseb2106/statconcepts
     tag: "v1.0"
+    containerPort: 80
   ingress:
     enabled: true
     hostname: statconcepts.lab.sspcloud.fr
