@@ -1,7 +1,7 @@
 shiny:
   image:
     repository: jeanseb2106/statconcepts
-    tag: "v1.0"
+    tag: "v1.1"
     containerPort: 80
   ingress:
     enabled: true
